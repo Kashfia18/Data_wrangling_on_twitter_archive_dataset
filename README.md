@@ -1,7 +1,7 @@
 # Data_wrangling_on_twitter_archive_dataset
 
 ## Overview
-Real-world data rarely comes clean. Using Python and its libraries, data was gathered from a variety of sources and in a variety of formats. Next its quality and tidiness was assessed and cleaned. This is called data wrangling. The wrangling efforts was documented in a Jupyter Notebook, and showcased through analyses and visualizations using Python.
+Real world data rarely comes clean. Using Python and its libraries, data was gathered from a variety of sources and in a variety of formats. Next its quality and tidiness was assessed and cleaned. This is called data wrangling. The wrangling efforts was documented in a Jupyter Notebook, and showcased through analyses and visualizations using Python.
 
 ## Tasks involved
 The tasks involved in this project are as follows:
